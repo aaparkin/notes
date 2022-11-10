@@ -1,0 +1,12 @@
+.page-sidebar__menu {
+  margin: 0;
+  padding: 0;
+}
+.page-sidebar__menu-item a:hover {
+    background-color: #ccc;
+}
+.page-sidebar__menu-item a {
+  display: block;
+  padding: 24px;
+  text-decoration: none;
+}
